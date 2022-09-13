@@ -1,0 +1,28 @@
+button {
+  padding: 0 30px;
+  height: 41px;
+  border-radius: 4px;
+  box-shadow: none;
+  border: 0px;
+}
+
+button.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+button.gc__btn--primary {
+  background: #0881FF;
+  color: #FFF;
+}
+
+button.gc__btn--danger {
+  background: #F24843;;
+  color: #FFF;
+}
+
+button.gc__btn--secondary {
+  background: #E8ECF0;
+  color: #35383D;
+  border: 1px solid #DAE1E8;
+}

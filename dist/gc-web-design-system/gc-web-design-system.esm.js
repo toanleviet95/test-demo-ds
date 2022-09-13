@@ -1,0 +1,1 @@
+import{p as c,b as t}from"./p-593fdb38.js";(()=>{const t=import.meta.url,s={};return""!==t&&(s.resourcesUrl=new URL(".",t).href),c(s)})().then((c=>t([["p-3f69c5c5",[[1,"gc-button",{class:[1],type:[1],disabled:[4]},[[2,"click","handleClick"]]],[1,"my-component",{first:[1],middle:[1],last:[1]}]]],["p-638a40bc",[[1,"gc-checkbox",{first:[1],middle:[1],last:[1]}]]]],c)));
